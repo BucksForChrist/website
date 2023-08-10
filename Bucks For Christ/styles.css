@@ -90,6 +90,15 @@ p{
     
     padding-top: 5%;
 }
+.ridetitle{
+    margin-top: 3%;
+}
+.ridebutton{
+    margin-top: 3%;
+    background-color: #ff3131;
+    border-radius: 8px;
+    
+}
 #location{
     text-align: center;
     margin-bottom: 3%;
