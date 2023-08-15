@@ -113,6 +113,17 @@ p{
     margin-top: 20%;
     text-align: left;
 }
+.wrapper {
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+.wrapper iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
 #connect{
     text-align: center;
     color: #fff;
