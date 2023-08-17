@@ -89,7 +89,13 @@ p{
 }
 .weeklyeventsp{
     padding-bottom: 2%;
-    padding-top: 5%;
+}
+.para{
+    text-align: left;
+}
+h3{
+    font-weight: 400;
+    font-family: 'Comfortaa', cursive;
 }
 .ridetitle{
     margin-top: 3%;
