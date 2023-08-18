@@ -54,9 +54,7 @@ a{
 a:hover{
     color: red;
 }
-.mail{
-    padding-top: 5%;
-}
+
 p{
     font-family: 'Libre Baskerville', serif;
     font-size: 1.2rem;
@@ -132,7 +130,7 @@ h3{
     font-family: 'Meow Script', cursive;
     font-size: 5rem;
 }
-.textgroup{
-    margin-top: 30%;
-}
 
+.twitter-tweet{
+    margin-top: 5%
+}
